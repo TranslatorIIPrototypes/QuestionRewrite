@@ -36,7 +36,7 @@ docker run -it -p <port>:6380 QuestionAugmentation
 ### Kubernetes configurations
     kubernetes configurations and helm charts for this project can be found at: 
     
-    https://github.com/helxplatform/translator-devops
+    https://github.com/helxplatform/translator-devops/question-rewrite
     
 ## Usage
 
